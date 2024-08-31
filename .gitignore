@@ -1,4 +1,2 @@
-#.gitignore
 x64
 .vs
-GateServer/
